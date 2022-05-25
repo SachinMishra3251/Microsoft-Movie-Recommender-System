@@ -18,6 +18,8 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#microsoft-engage-2021">Microsoft Engage 2021</a></li>
+        <li><a href="#movie-recommender-system">Movie Recommender System</a></li>
+        <li><a href="#api-key">API KEY</a></li>
         <li><a href="#features">Features</a></li>
       </ul>
     </li>
@@ -90,6 +92,10 @@ I get my api key for movies from  <a href="https://www.themoviedb.org/settings/a
   </li>
 </ol>
 
+## Similarity Score
+
+It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
+
 <!-- ROADMAP -->
 ## Resources Used
 
@@ -102,6 +108,12 @@ I get my api key for movies from  <a href="https://www.themoviedb.org/settings/a
 * heroku cli
 ### Framework
 * Flask
+## Sources of the datasets
+1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset)
+2. [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
+3. [List of movies in 2018](https://en.wikipedia.org/wiki/List_of_American_films_of_2018)
+4. [List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
+5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
 
 ### Deployment
 The app is deployed using Heroku at https://mrs-microsoft-ver-3.herokuapp.com/.
