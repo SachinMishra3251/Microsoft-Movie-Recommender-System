@@ -19,7 +19,7 @@
       <ul>
         <li><a href="#microsoft-engage-2021">Microsoft Engage 2021</a></li>
         <li><a href="#movie-recommender-system">Movie Recommender System</a></li>
-        <li><a href="#howtouseinyourlocalmachine">How to use in your local machine</li>
+        <li><a href="#how-to-use-in-your-local-machine">How to use in your local machine</li>
         <li><a href="#api-key">API KEY</a></li>
         <li><a href="#features">Features</a></li>
       </ul>
