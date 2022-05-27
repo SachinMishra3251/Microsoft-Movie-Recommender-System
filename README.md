@@ -19,6 +19,7 @@
       <ul>
         <li><a href="#microsoft-engage-2021">Microsoft Engage 2021</a></li>
         <li><a href="#movie-recommender-system">Movie Recommender System</a></li>
+        <li><a href="#howtouseinyourlocalmachine">How to use in your local machine</li>
         <li><a href="#api-key">API KEY</a></li>
         <li><a href="#features">Features</a></li>
       </ul>
@@ -50,6 +51,15 @@ Throughout this project, my fellow mentees and I had constant support from the m
 
 A movie recommendation system ,recommends movies of the similar content which you like to see, also give information about casts and user reviews on the movie you searched. Imagine the moment you ended your favorite movie and now you wish to see something similar to it?
 But to find out about it you have to search all around the internet,so here's the solution for this. I have developed a website which will enable you to find out movies of your interests.
+
+### How to use in your local machine
+
+1. Clone or download this repository to your local machine.
+2. Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt
+3. Open your terminal/command prompt from your project directory and run the file main.py by executing the command python main.py.
+4. Go to your browser and type http://127.0.0.1:5000/ in the address bar.
+AND DONE!!!
+Note:- if my api key is not working you can use yours by getting it from [https://www.themoviedb.org/](https://www.themoviedb.org/.)
 
 ### API KEY
 
